@@ -1,0 +1,1 @@
+Easy to use library to burn CDs and DVDs with C#.
